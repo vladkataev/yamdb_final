@@ -1,7 +1,6 @@
 # yamdb_final
 
-
-![yamdb_final_workflow](https://github.com/vladkataev/yamdb_final/actions/workflows/yamdb_workflow/badge.svg?event=push)
+![example workflow](https://github.com/vladkataev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ```
 Проект YaMDb собирает отзывы пользователей на произведения.
