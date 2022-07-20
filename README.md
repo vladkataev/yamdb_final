@@ -46,11 +46,6 @@ docker-compose exec web python manage.py collectstatic --no-input
 ### Документация с примерами запросов и ответов на них по адресу:
 
 **[http://84.252.136.247/redoc/](http://84.252.136.247/redoc/)**
-<<<<<<< HEAD
-
-### Автор:
-=======
->>>>>>> d12d88cc33d6bfbacc06a6d9353b09ba3a05f6e1
 
 ### Автор:
 
