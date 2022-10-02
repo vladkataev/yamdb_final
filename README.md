@@ -1,4 +1,4 @@
-## Проект yamdb_final
+# Проект yamdb_final
 REST API проект для сервиса YaMDb — сбор отзывов о фильмах, книгах или музыке.
 
 ![example workflow](https://github.com/vladkataev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
